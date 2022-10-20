@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
